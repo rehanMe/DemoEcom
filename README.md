@@ -4,7 +4,7 @@ Sample ecommerce application with shopping page and cart.
 
 ## Installing dependencies
 
-Navigate to project folder and run `npm install`.
+Navigate to project folder `cd DemoEcom` and run `npm install` to install dependencies.
 
 ## Development server
 
